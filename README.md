@@ -5,10 +5,10 @@ The project makes use of the pAGN library to construct α-disk models following 
 
 There are two components:\
 \
-(i) *Disk Models\
+(i) Disk Models\
 Computation of the Sirko–Goodman and Thompson AGN disk profiles using <a href="https://github.com/DariaGangardt/pAGN">pAGN</a> \
 \
-(ii) *Scattering Algorithm\
+(ii) Scattering Algorithm\
 Implements dynamical friction and accretion forces and evolves the orbit over an arbitrary number of scatterings. Updates: semi-major axis, eccentricity, inclination, argument of periapsis.\
 
 # Requirements
