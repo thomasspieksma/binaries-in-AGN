@@ -23,7 +23,8 @@ Install dependencies via:
 
 # Running the code
 (1) Clone the repository
-<pre><code>git clone https://github.com/thomasspieksma/BiAGN.git\ cd BiAGN </code></pre>
+<pre><code>git clone https://github.com/thomasspieksma/BiAGN.git</code></pre> \
+<pre><code>cd BiAGN </code></pre>
 
 (2) Open the notebook:
 <pre><code>jupyter notebook</code></pre>
