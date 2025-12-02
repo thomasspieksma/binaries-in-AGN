@@ -9,7 +9,7 @@ There are two components:\
 Computation of the Sirko–Goodman and Thompson AGN disk profiles using <a href="https://github.com/DariaGangardt/pAGN">pAGN</a> \
 \
 (ii) Scattering Algorithm\
-Implements dynamical friction and accretion forces and evolves the orbit over an arbitrary number of scatterings. Updates: semi-major axis, eccentricity, inclination, argument of periapsis.\
+Implements dynamical friction and accretion forces and evolves the orbit over an arbitrary number of scatterings. Updates: semi-major axis, eccentricity, inclination, argument of periapsis.
 
 # Requirements
 The notebook requires:
