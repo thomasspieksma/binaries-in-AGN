@@ -48,7 +48,7 @@ process_00 = "friction" # or "accretion"</code></pre>
 (5) Run simulation & view plots
 run scattering:
 <pre><code>results = scatterings(M_00, ms_00, a_00, e_00, iota_00, theta_00, N_00, process=process_00)</code></pre>
-unpack results and plot (notebook contains plotting cell). The code will stop early if orbit becomes unbound, inclination drops below thin-disk thre
+unpack results and plot (notebook contains plotting cell). The code will stop early if orbit becomes unbound, inclination drops below thin-disk threshold, or |v| ≥ 1.
 
 
 # Questions
