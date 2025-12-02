@@ -19,7 +19,7 @@ SciPy
 Matplotlib
 pAGN (AGN disk modelling)
 Install dependencies via:
-<pre><code>pip install numpy scipy matplotlib pagn</code></pre 
+<pre><code>pip install numpy scipy matplotlib pagn</code></pre> 
 
 # Running the code
 (1) Clone the repository
