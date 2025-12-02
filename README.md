@@ -1,6 +1,6 @@
 # binaries-in-AGN
 # Description
-This repository contains the codes and notebook used in <a href="https://arxiv.org/abs/2504.08033">arXiv:2504.08033</a> [1] to study the dynamical evolution of compact objects embedded in AGN accretion disks.
+This repository contains the codes and notebook used in <a href="https://arxiv.org/abs/2504.08033">arXiv:2504.08033</a> to study the dynamical evolution of compact objects embedded in AGN accretion disks.
 The project makes use of the pAGN library to construct α-disk models following Sirko & Goodman (2003) and Thompson et al. (2005), and implements a physically motivated scattering algorithm for black hole binaries interacting with the disk.
 
 There are two components:\
@@ -19,7 +19,7 @@ SciPy
 Matplotlib
 pAGN (AGN disk modelling)
 Install dependencies via:
-<pre><code>pip install numpy scipy matplotlib pagn</code></pre
+<pre><code>pip install numpy scipy matplotlib pagn</code></pre 
 
 # Running the code
 (1) Clone the repository
@@ -63,4 +63,3 @@ If you make use of this code, please cite the corresponding paper,
     month = "4",
     year = "2025"
 }</code></pre>
-n
