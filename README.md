@@ -1,7 +1,7 @@
 # binaries-in-AGN
 # Description
-This repository contains the codes and notebook used in <a href="https://arxiv.org/abs/2504.08033">arXiv:2504.08033</a> to study the dynamical evolution of compact objects embedded in AGN accretion disks.
-The project makes use of the pAGN library to construct α-disk models following Sirko & Goodman (2003) and Thompson et al. (2005), and implements a physically motivated scattering algorithm for black hole binaries interacting with the disk.
+This repository contains the codes and notebook used in <a href="https://arxiv.org/abs/2504.08033">arXiv:2504.08033</a> to study the dynamical evolution of compact objects crossings through AGN accretion disks.
+The project makes use of the pAGN library to construct α-disk models following Sirko & Goodman (2003) and Thompson et al. (2005), and implements a scattering algorithm for black hole binaries interacting with the disk.
 
 There are two components:\
 \
