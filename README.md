@@ -54,7 +54,7 @@ unpack results and plot (notebook contains plotting cell). The code will stop ea
 # Questions
 For questions, feedback or suggestions, please email: <a href="mailto:thomas.spieksma@physics.ox.ac.uk">thomas.spieksma@physics.ox.ac.uk</a>.
 # Citing
-If you make use of this code, please cite the corresponding paper,
+If you make use of this code, please cite the corresponding paper:
 <pre><code> @article{Spieksma:2025wex,
     author = "Spieksma, Thomas F. M. and Cannizzaro, Enrico",
     title = "{In the grip of the disk: dragging the companion through an AGN}",
